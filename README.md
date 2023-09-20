@@ -1,7 +1,9 @@
-# py_lessons
-All lessons of youtube channel Bro Code "Python Full Course for free" (https://www.youtube.com/watch?v=XKHEtdqhLK8&amp;t=22s)
+Title: "Python Practice Repository - Bro Code's Free Full Course"
 
-My exclusive goal here is to practise Python. Anythong more.
-All credits must be given to Bro Code (https://www.youtube.com/@BroCodez).
+Description:
+In this repository, I'm sharing my journey of practicing Python using the fantastic "Python Full Course for free" by the Bro Code YouTube channel. You can watch the course here.
 
+My primary goal is to improve my Python skills, and this repository will contain code and projects I create as I follow along with the course. All credit for the content and lessons goes to Bro Code, and you can find their channel here.
+
+Let's dive into coding and learn Python together! 🐍
 Let´s code!
