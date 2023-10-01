@@ -1,0 +1,15 @@
+Pessoal, tripé básico para a área de dados:
+- Linguagem SQL;
+- Python (para manipulação e análise de dados);
+- Alguma ferramenta de visualização (DataViz).
+
+
+https://drive.google.com/drive/folders/1w04gkm67tQoP8WOe-1whUNXgWCpgVkkj
+
+https://www.w3schools.com/sql/sql_datatypes.asp
+
+Pessoal, este tutorial está na pasta zipada: Datasets Futebol-20230503T011849Z-001
+
+https://www.w3schools.com/sql/sql_datatypes.asp
+
+https://drive.google.com/drive/folders/1Yn_dljzaCJ3trJctjlkn_DU86QkYj3hf
