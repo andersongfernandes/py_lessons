@@ -9,6 +9,7 @@ y = 2
 z = 3
 
 print(round(pi))
+print(round(pi,2))
 print(math.ceil(pi))
 print(math.floor(pi))
 print(abs(pi))
